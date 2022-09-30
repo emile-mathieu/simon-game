@@ -1,5 +1,5 @@
 # A Simon Game
-
+To play: https://emile-mathieu.github.io/simon-game/
 A Simon game made in jQuery HTML & CSS.
 
 
